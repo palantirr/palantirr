@@ -3,7 +3,7 @@
 <!-- <p align="center">
   <em>Postgraduate student</em>
 </p> -->
-## Zoltan Karsai
+## 👋 Hey there, I'm Zoltan
 ---
 
 ### 👾 About Me
