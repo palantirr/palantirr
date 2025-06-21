@@ -42,7 +42,7 @@
 ### 🔥 Analytics
 
 ![palantirr's Stats](https://github-readme-stats.vercel.app/api?username=palantirr&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
-![palantirr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=palantirr&theme=ayu-mirage&hide_border=true)
 ![palantirr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palantirr&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+![palantirr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=palantirr&theme=ayu-mirage&hide_border=true)
 
 ---
