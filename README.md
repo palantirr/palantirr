@@ -6,12 +6,11 @@
 ## 👋 Hey there, I'm Zoltan
 ---
 
-### 👾 About Me
+### 👨🏻‍💻 About Me
 
-- 🧑‍💻 Graduate Software and DevOps Engineer by trade
-- 🎓 Qualifications in cybersecurity (BSc Honours, GCIH, GCIA)
-- 💡 Aspiring to become a cyber security expert
-- 🌱 Currently studying for OSCP certification
+- Graduate Software and DevOps Engineer by trade
+- Qualifications in cybersecurity (BSc Honours, GCIH, GCIA)
+- Currently studying for OSCP certification
 
 ---
 
@@ -31,7 +30,7 @@
 
 ---
 
-### 🌟 Featured Project
+### 🔆 Featured Project
 
 - **[Network-Intrusion-Detection](https://github.com/Palantirr/Network-Intrusion-Detection)**  
   <sub>
@@ -40,10 +39,10 @@
 
 ---
 
-<div align="center">
+### 🔥 Analytics
 
-![Palantirr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Palantirr&show_icons=true&theme=radical&hide_title=true)
-
-</div>
+![palantirr's Stats](https://github-readme-stats.vercel.app/api?username=palantirr&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
+![palantirr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=palantirr&theme=ayu-mirage&hide_border=true)
+![palantirr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palantirr&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
 
 ---
