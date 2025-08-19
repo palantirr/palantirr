@@ -10,7 +10,8 @@
 
 - Graduate Software and DevOps Engineer by trade
 - Qualifications in cybersecurity (BSc Honours, GCIH, GCIA)
-- Currently studying for OSCP certification
+- Undertaking OSCP certification
+- Currently working on my postgraduate MSc Dissertation
 
 ---
 
@@ -21,18 +22,21 @@
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge"/>
   <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900?logo=aws&logoColor=white&style=for-the-badge"/>
   <img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-EE0000?logo=jenkins&logoColor=white&style=for-the-badge"/>
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge"/>
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <!-- <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/> -->
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>  
+  <!-- <img alt="React" src="https://img.shields.io/badge/React-3776AB?logo=react&logoColor=white&style=for-the-badge"/> -->
+  <!-- <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3776AB?logo=typescript&logoColor=white&style=for-the-badge"/> -->
+  <!-- <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/> -->
 </p>
 
 ---
 
 ### Featured Project
 
-- **[Network-Intrusion-Detection](https://github.com/Palantirr/Network-Intrusion-Detection)**  
+- **[Network-Intrusion-Detection](https://github.com/palantirr/Network-Intrusion-Detection)**  
   <sub>
     Adapted from my Bachelor of Science dissertation, this project presents a refined approach to intrusion detection, bridging academic research of machine learning and real-world application.
   </sub>
